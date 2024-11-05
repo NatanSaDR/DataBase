@@ -1,0 +1,508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\bin\\Debug\\net8.0\\de\\Microsoft.CodeAnalysis.CSharp.resources.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EdirSalesBancoDeDados\\bin\\Debug\\net8.0\\de\\Microsoft.CodeAnalysis.CSharp.resources.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\application\\usecases\\solicitacaousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\application\\usecases\\solicitacaousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\application\\interfaces\\isolicitacaousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\application\\interfaces\\isolicitacaousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\application\\usecases\\municipeusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\application\\usecases\\municipeusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\controllers\\solicitacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\controllers\\solicitacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\infrastructure\\repositories\\solicitacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\infrastructure\\repositories\\solicitacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\infrastructure\\repositories\\listartodospag\\paginarextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\infrastructure\\repositories\\listartodospag\\paginarextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\domain\\solicitacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\domain\\solicitacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\controllers\\municipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\controllers\\municipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\controllers\\grupocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\controllers\\grupocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\infrastructure\\edirsalescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\infrastructure\\edirsalescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\infrastructure\\migrations\\version00006.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\infrastructure\\migrations\\version00006.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\infrastructure\\repositories\\municiperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\infrastructure\\repositories\\municiperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\infrastructure\\migrations\\version00005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\infrastructure\\migrations\\version00005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\infrastructure\\migrations\\version00004.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\infrastructure\\migrations\\version00004.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\infrastructure\\migrations\\version00003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\infrastructure\\migrations\\version00003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\infrastructure\\migrations\\version00002.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\infrastructure\\migrations\\version00002.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\domain\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\domain\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\infrastructure\\repositories\\gruporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\infrastructure\\repositories\\gruporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\domain\\municipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\domain\\municipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\application\\interfaces\\igrupousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\application\\interfaces\\igrupousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\application\\usecases\\grupousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\application\\usecases\\grupousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\application\\interfaces\\imunicipeusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\application\\interfaces\\imunicipeusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\domain\\interfaces\\igruporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\domain\\interfaces\\igruporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\application\\exceptions\\municipeexception\\tiposdeerrosgrupoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\application\\exceptions\\municipeexception\\tiposdeerrosgrupoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\application\\exceptions\\grupoexception\\exceptiongrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\application\\exceptions\\grupoexception\\exceptiongrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\application\\exceptions\\grupoexception\\tiposdeerrosgrupoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\application\\exceptions\\grupoexception\\tiposdeerrosgrupoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\edirsalesbancodedados\\edirsalesbancodedados\\application\\exceptions\\municipeexception\\exceptionmunicipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F006B5-4EF6-421C-89F6-A080876E5797}|EdirSalesBancoDeDados\\EdirSalesBancoDeDados.csproj|solutionrelative:edirsalesbancodedados\\application\\exceptions\\municipeexception\\exceptionmunicipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.CodeAnalysis.CSharp.resources.dll",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\bin\\Debug\\net8.0\\de\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\bin\\Debug\\net8.0\\de\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\bin\\Debug\\net8.0\\de\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\bin\\Debug\\net8.0\\de\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-11-05T00:59:20.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISolicitacaoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\Interfaces\\ISolicitacaoUseCase.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Application\\Interfaces\\ISolicitacaoUseCase.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\Interfaces\\ISolicitacaoUseCase.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Application\\Interfaces\\ISolicitacaoUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:54:31.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Application\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Application\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:54:04.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SolicitacaoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\UseCases\\SolicitacaoUseCase.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Application\\UseCases\\SolicitacaoUseCase.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\UseCases\\SolicitacaoUseCase.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Application\\UseCases\\SolicitacaoUseCase.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwBsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:45:05.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaginarExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Repositories\\ListarTodosPag\\PaginarExtension.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Infrastructure\\Repositories\\ListarTodosPag\\PaginarExtension.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Repositories\\ListarTodosPag\\PaginarExtension.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Infrastructure\\Repositories\\ListarTodosPag\\PaginarExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:43:19.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SolicitacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Controllers\\SolicitacaoController.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Controllers\\SolicitacaoController.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Controllers\\SolicitacaoController.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Controllers\\SolicitacaoController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:12:36.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MunicipeUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\UseCases\\MunicipeUseCase.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Application\\UseCases\\MunicipeUseCase.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\UseCases\\MunicipeUseCase.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Application\\UseCases\\MunicipeUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:48:35.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SolicitacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Repositories\\SolicitacaoRepository.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Infrastructure\\Repositories\\SolicitacaoRepository.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Repositories\\SolicitacaoRepository.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Infrastructure\\Repositories\\SolicitacaoRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA5wCkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:14:18.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Solicitacao.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Domain\\Solicitacao.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Domain\\Solicitacao.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Domain\\Solicitacao.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Domain\\Solicitacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:10:48.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GrupoController.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Controllers\\GrupoController.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Controllers\\GrupoController.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Controllers\\GrupoController.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Controllers\\GrupoController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:21:39.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MunicipeController.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Controllers\\MunicipeController.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Controllers\\MunicipeController.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Controllers\\MunicipeController.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Controllers\\MunicipeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:49:20.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EdirSalesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\EdirSalesContext.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Infrastructure\\EdirSalesContext.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\EdirSalesContext.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Infrastructure\\EdirSalesContext.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwCoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:15:48.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MunicipeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Repositories\\MunicipeRepository.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Infrastructure\\Repositories\\MunicipeRepository.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Repositories\\MunicipeRepository.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Infrastructure\\Repositories\\MunicipeRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA9wB0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:46:59.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Version00006.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00006.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00006.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00006.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00006.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:31:06.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Version00004.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00004.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00004.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00004.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00004.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:01:45.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Version00005.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00005.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00005.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00005.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00005.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:52:44.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Version00003.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00003.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00003.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00003.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00003.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:01:14.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Version00002.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00002.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00002.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00002.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Infrastructure\\Migrations\\Version00002.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:28:09.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Grupo.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Domain\\Grupo.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Domain\\Grupo.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Domain\\Grupo.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Domain\\Grupo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:14:21.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\DependencyInjection.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\DependencyInjection.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAowD8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:30:43.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GrupoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Repositories\\GrupoRepository.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Infrastructure\\Repositories\\GrupoRepository.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Infrastructure\\Repositories\\GrupoRepository.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Infrastructure\\Repositories\\GrupoRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:43:45.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Municipe.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Domain\\Municipe.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Domain\\Municipe.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Domain\\Municipe.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Domain\\Municipe.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wBQAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:24:41.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGrupoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\Interfaces\\IGrupoUseCase.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Application\\Interfaces\\IGrupoUseCase.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\Interfaces\\IGrupoUseCase.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Application\\Interfaces\\IGrupoUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:46:20.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GrupoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\UseCases\\GrupoUseCase.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Application\\UseCases\\GrupoUseCase.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\UseCases\\GrupoUseCase.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Application\\UseCases\\GrupoUseCase.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAQwE0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:45:59.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IMunicipeUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\Interfaces\\IMunicipeUseCase.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Application\\Interfaces\\IMunicipeUseCase.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\Interfaces\\IMunicipeUseCase.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Application\\Interfaces\\IMunicipeUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:49:12.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IGrupoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Domain\\Interfaces\\IGrupoRepository.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Domain\\Interfaces\\IGrupoRepository.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Domain\\Interfaces\\IGrupoRepository.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Domain\\Interfaces\\IGrupoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:45:21.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TiposDeErrosGrupoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\Exceptions\\MunicipeException\\TiposDeErrosGrupoEnum.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Application\\Exceptions\\MunicipeException\\TiposDeErrosGrupoEnum.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\Exceptions\\MunicipeException\\TiposDeErrosGrupoEnum.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Application\\Exceptions\\MunicipeException\\TiposDeErrosGrupoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:52:48.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TiposDeErrosGrupoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\Exceptions\\GrupoException\\TiposDeErrosGrupoEnum.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Application\\Exceptions\\GrupoException\\TiposDeErrosGrupoEnum.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\Exceptions\\GrupoException\\TiposDeErrosGrupoEnum.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Application\\Exceptions\\GrupoException\\TiposDeErrosGrupoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:57:03.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ExceptionMunicipe.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\Exceptions\\MunicipeException\\ExceptionMunicipe.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Application\\Exceptions\\MunicipeException\\ExceptionMunicipe.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\Exceptions\\MunicipeException\\ExceptionMunicipe.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Application\\Exceptions\\MunicipeException\\ExceptionMunicipe.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:55:14.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExceptionGrupo.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\Exceptions\\GrupoException\\ExceptionGrupo.cs",
+              "RelativeDocumentMoniker": "EdirSalesBancoDeDados\\Application\\Exceptions\\GrupoException\\ExceptionGrupo.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\EdirSalesBancoDeDados\\EdirSalesBancoDeDados\\Application\\Exceptions\\GrupoException\\ExceptionGrupo.cs",
+              "RelativeToolTip": "EdirSalesBancoDeDados\\Application\\Exceptions\\GrupoException\\ExceptionGrupo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:57:58.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
